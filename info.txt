@@ -1,2 +1,33 @@
 Ali Deniz Ünal - 22102842 - https://github.com/DenizUnal11
 Minecraft
+
+
+C:\Users\alide\OneDrive\Belgeler\GitHub\-CS-102-Github-Tutorial-Spring-2022>git log
+commit 2ffbaafb57bbd96354b718f68a1847e186f2aaf2 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 1a86cf0 2a61593
+Author: Ali Deniz Ünal <91666986+DenizUnal11@users.noreply.github.com>
+Date:   Wed Feb 9 20:21:59 2022 +0300
+
+    Merge pull request #1 from DenizUnal11/new_information
+
+    Update info.txt pull
+
+commit 2a61593f7d135958a50a9ac7a3cfd7aca1284967 (origin/new_information, new_information)
+Author: Ali Deniz Ünal <alidenizunal11@gmail.com>
+Date:   Wed Feb 9 20:20:17 2022 +0300
+
+    Update info.txt
+
+commit 1a86cf0025a270bb7307b358d843b2913a839cd1
+Author: Ali Deniz Ünal <alidenizunal11@gmail.com>
+Date:   Wed Feb 9 20:16:10 2022 +0300
+
+    ‘Name_of_the_student updated info.txt
+
+commit c14b14439164ef37b46457ecf11407ef4b89688d
+Author: Ali Deniz Ünal <91666986+DenizUnal11@users.noreply.github.com>
+Date:   Wed Feb 9 20:13:23 2022 +0300
+
+    Initial commit
+
+C:\Users\alide\OneDrive\Belgeler\GitHub\-CS-102-Github-Tutorial-Spring-2022>
